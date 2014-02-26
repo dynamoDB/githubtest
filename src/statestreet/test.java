@@ -6,5 +6,8 @@ public class test {
 		for(a=0;a<100;a++){
 			System.out.println("index:"+a);
 		}
+		while(true){
+			break;
+		}
 	}
 }
