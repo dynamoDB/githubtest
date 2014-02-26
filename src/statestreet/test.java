@@ -2,9 +2,9 @@ package statestreet;
 
 public class test {
 	public static void main(String[] args) {
-		System.out.println("hello word");
-		System.out.println("hello shilei");
-		System.out.println("what a beautifull day");
-		
+		int a=0;
+		for(a=0;a<100;a++){
+			System.out.println("index:"+i);
+		}
 	}
 }
